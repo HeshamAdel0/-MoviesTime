@@ -1,0 +1,5 @@
+@include('layouts.front-end.head_tag')
+@include('layouts.front-end.header')
+@include('layouts.front-end.content')
+@include('layouts.front-end.footer')
+@include('layouts.front-end.end-body')
